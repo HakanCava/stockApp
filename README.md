@@ -22,9 +22,9 @@ yarn create react-app (folderName OR .)
 - `formik`
 - `yup`
 
-## `What are we doing`
+## `What am I doing`
 
-- We are making an inventory program that keeps product and company information. This program is software that helps manage the company's inventory.
+- I am making an inventory program that keeps product and company information. This program is software that helps manage the company's inventory.
 - In this program, information such as stock amount, supplier information, sales price, purchase price are recorded for each product.
 - Crud operations are performed according to the swagger and redoc documents from the backend.
 
