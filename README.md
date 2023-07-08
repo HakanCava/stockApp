@@ -1,5 +1,9 @@
 # Stock App Project
 
+## `Gif`
+
+![gif](stockappgif.gif)
+
 ## `Installation`
 
 ```
@@ -90,6 +94,4 @@ yarn create react-app (folderName OR .)
 
 - `Redux Dev Tools` : It is a browser extension that runs on Chrome and enables tracking of all changes made to the global state. For download [click here.](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?utm_source=chrome-ntp-icon)`
 
-## `Gif`
 
-![gif](stockappgif.gif)
